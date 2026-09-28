@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "memory": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "c:\\Users\\SHUBHANGIJOSHI\\AppData\\Roaming\\IBM Bob\\User\\globalStorage\\allansantos-dv.mcp-memory-server\\mcp-memory-server.jar",
+        "--workspace",
+        "${workspaceFolder}",
+        "--transport",
+        "both",
+        "--port",
+        "3000"
+      ]
+    }
+  }
+}
